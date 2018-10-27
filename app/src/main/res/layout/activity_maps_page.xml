@@ -6,4 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".MapsPage">
 
+    <Button
+        android:id="@+id/Main_Page_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="open_mainPage"
+        android:text="Open the mainPage"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+
+
+
 </android.support.constraint.ConstraintLayout>

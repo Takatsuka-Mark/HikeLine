@@ -19,7 +19,11 @@ allprojects {
     repositories {
         google()
         jcenter()
+
+        // adding in google services
+        maven { url "https://maven.google.com" }
     }
+
 }
 
 task clean(type: Delete) {

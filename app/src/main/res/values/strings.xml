@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">HikeLine</string>
+
+    <string name = "google_maps_API_key">AIzaSyBq-XsPPvbQrQInDxuTq4m0sGEFJFMrwy8</string>
+
 </resources>
