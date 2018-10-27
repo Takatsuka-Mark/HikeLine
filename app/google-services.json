@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837129736577",
+    "firebase_url": "https://hikeline-bbdda.firebaseio.com",
+    "project_id": "hikeline-bbdda",
+    "storage_bucket": "hikeline-bbdda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837129736577:android:70c70df02fe70520",
+        "android_client_info": {
+          "package_name": "com.example.shane.hikeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837129736577-d3e4s9b9d3riq9k3v7hvepr3rvfrk80q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shane.hikeline",
+            "certificate_hash": "1feed6f7fbaa10c46dfea0838209329a01e60947"
+          }
+        },
+        {
+          "client_id": "837129736577-3jenkqosvn59mp1dclfpsk2m5sfp9ioj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2f_seTibLAcS80Sx-cSdGL8MYoVj0ATw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837129736577-7fbm1b9nd2s3jpbl45rudkbltavf16ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
